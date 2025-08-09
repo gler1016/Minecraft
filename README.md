@@ -1,12 +1,3 @@
-[![discord](https://img.shields.io/discord/746366936937660527.svg?logo=discord "Discord")](https://discord.gg/ApTJcVN)
-[![license](https://img.shields.io/github/license/mashape/apistatus.svg?style=flat-square "License")](https://github.com/swr06/Minecraft/blob/master/LICENSE)
-![hunter](https://img.shields.io/badge/hunter-ATMC-blue.svg)
-
-![Minecraft Logo](https://github.com/swr06/Minecraft/blob/master/Screenshots/logo.png)
-<p align=center>
-Created by Samuel Rasquinha using C++17 and OpenGL 3.3 :game_die:
-</p>
-
 # A Tiny Minecraft Clone
 A Tiny Minecraft clone made with C++ and OpenGL. 
 
@@ -60,9 +51,6 @@ The block art, skybox art and fonts are not made by me. All credits go to their 
 Notable Websites : </br>
 1) https://opengameart.org/ </br>
 
-# Special Thanks
-1) Dan Bechard (Discord : @dandymcgee#2568)
-2) Krazer (Discord : @Krazer7877)
 
 # References 
 - SoA blog posts
@@ -72,11 +60,6 @@ Notable Websites : </br>
 This project is under the MIT license. See LICENSE for more info
 
 # Screenshots
-
-![Minecraft Menu](https://github.com/swr06/Minecraft/blob/master/Screenshots/menu.png)
-<p align="center">
-  <i>The Menu screen</i>
-</p>
 
 ![Minecraft in-game](https://github.com/swr06/Minecraft/blob/master/Screenshots/gen-1.png)
 </br>
